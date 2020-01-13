@@ -1,0 +1,124 @@
+body {
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  background-color: #FAFAFA;
+  width: 1440px;
+}
+
+h1 {
+  font-size: 40px;
+  color: #A3A5AE;
+  font-weight: normal;
+
+}
+
+h2 {
+  display: inline-block;
+  width: 50%;
+  font-size: 20px;
+  color: #A3A5AE;
+  margin-bottom: 50px;
+}
+
+h3 {
+  color: #4C4E61;
+  font-weight: 600;
+}
+
+a {
+  color: #3E52A3;
+}
+
+img {
+  float: right;
+}
+
+p {
+  color: #A3A5AE;
+}
+
+strong{
+  color: #4C4E61;
+  font-weight: 600;
+}
+
+.box-supervisor {
+  height: 200px;
+  width: 300px;
+  margin: 20px;
+  border-top-style: solid;
+  border-radius: 2.5%;
+  border-top-color: #45D3D3;
+  text-align: left;
+  background-color: white;
+  box-shadow: 0 8px 16px 0 lightgrey, 0 12px 20px 0 lightgrey;
+  padding: 20px;
+  float: right;
+}
+
+.box-team-builder {
+  display: inline-block;
+  height: 200px;
+  width: 300px;
+  margin: 20px;
+  border-top-style: solid;
+  border-radius: 2.5%;
+  border-top-color: #EA5353;
+  text-align: left;
+  background-color: white;
+  box-shadow: 0 8px 16px 0 lightgrey, 0 12px 20px 0 lightgrey;
+  padding: 20px;
+}
+
+.box-karma {
+  display: inline-block;
+  height: 200px;
+  width: 300px;
+  margin: 20px;
+  border-top-style: solid;
+  border-radius: 2.5%;
+  border-top-color: #FCAF4A;
+  text-align: left;
+  background-color: white;
+  box-shadow: 0 8px 16px 0 lightgrey, 0 12px 20px 0 lightgrey;
+  padding: 20px;
+}
+
+.box-calculator {
+  height: 200px;
+  width: 300px;
+  margin: 20px;
+  border-top-style: solid;
+  border-radius: 2.5%;
+  border-top-color: #549EF2;
+  text-align: left;
+  background-color: white;
+  box-shadow: 0 8px 16px 0 lightgrey, 0 12px 20px 0 lightgrey;
+  padding: 20px;
+  float: left;
+}
+
+.divider-left {
+  float: left;
+  width: 33.33%;
+  margin-top: 141.5px;
+  position: relative;
+}
+
+.divider-center {
+  float: left;
+  width: 33.33%;
+  position: relative;
+}
+
+.divider-right {
+  float: right;
+  width: 33.33%;
+  margin-top: 141.5px;
+  position: relative;
+}
+
+.container {
+  display: inline-block;
+}
